@@ -296,3 +296,8 @@ while True:
         print('Please choose a number between 1 and 6!')
 ```
 Figure 11. Main body of the script incorporating all the functions.
+
+Last step now is to test the code! I started from scratch, so there was currently no data saved when I started the test. My goal is to add two users, John Doe and Jane Doe, to the script and then view my current data as well as view the binary data before saving to a text file.
+
+![Figure 12](Image1.png "Figure 12")
+Figure 12. Running the program in PyCharm to test. The file doesn’t currently exist at the beginning of the test, so exception is thrown. I then add John Doe successfully.
