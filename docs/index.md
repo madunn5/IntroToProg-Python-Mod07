@@ -21,14 +21,14 @@ Once I had completed enough research to feel confident about performing the task
 The first section of the code acts a log of information about what the code should accomplish, as well as any changes made to the code so that anyone can come in and get an idea of what is going on. 
 
 '''
-# ------------------------------------------------- #
-# Title: Assignment 07 - Pickling
-# Description: A simple example of storing data in a binary file
-#              and then using pickle to unpickle it. Additionally,
-#              the program can print the data to a text file,
-#              delete all previously saved data and show the user
-#              the binary data
-# ChangeLog: (Who, When, What)
-# MDunn,8/17/2023,Created Script
-# ------------------------------------------------- #
+-------------------------------------------------
+Title: Assignment 07 - Pickling
+Description: A simple example of storing data in a binary file
+              and then using pickle to unpickle it. Additionally,
+              the program can print the data to a text file,
+              delete all previously saved data and show the user
+              the binary data
+ChangeLog: (Who, When, What)
+MDunn,8/17/2023,Created Script
+-------------------------------------------------
 '''
