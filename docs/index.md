@@ -299,5 +299,45 @@ Figure 11. Main body of the script incorporating all the functions.
 
 Last step now is to test the code! I started from scratch, so there was currently no data saved when I started the test. My goal is to add two users, John Doe and Jane Doe, to the script and then view my current data as well as view the binary data before saving to a text file.
 
-![Figure 12](Image1.png "Figure 12")
+![Figure 12](Assignment%20Pictures/Image1.png "Figure 12")
+
 Figure 12. Running the program in PyCharm to test. The file doesn’t currently exist at the beginning of the test, so exception is thrown. I then add John Doe successfully.
+
+![Figure 13](Assignment%20Pictures/Image2.png "Figure 13")
+
+Figure 13. Add Jane Doe successfully and then view current data successfully.
+
+![Figure 14](Assignment%20Pictures/Image3.png "Figure 14")
+
+Figure 14. Successfully viewed the binary data before saving to a text file.
+
+![Figure 15](Assignment%20Pictures/Image4.png "Figure 15")
+
+Figure 15. Exited the program successfully.
+
+![Figure 16](Assignment%20Pictures/Image5.png "Figure 16")
+![Figure 16](Assignment%20Pictures/Image6.png "Figure 16")
+
+Figure 16. Text file after being saved, as well as the serialized file saved in the same folder.
+
+## Running the Program in the Terminal
+The last thing to test for this assignment was to the run the program in the Mac Terminal. I’m going to delete the previous file and save the names Ben Johnson and Molly Johnson now that I know their names.
+
+![Figure 17](Assignment%20Pictures/Image7.png "Figure 17")
+
+Figure 17. Deleting the previously saved data.
+
+![Figure 18](Assignment%20Pictures/Image8.png "Figure 18")
+
+Figure 18. Confirming that the previous data was deleted before adding in the new data.
+
+![Figure 19](Assignment%20Pictures/Image9.png "Figure 19")
+
+Figure 19. Confirming data was saved before saving to text file.
+
+![Figure 20](Assignment%20Pictures/Image10.png "Figure 20")
+
+Figure 20. Updated text file.
+
+## Summary
+This assignment was a ton of fun to be able to create program from scratch with this much functionality. I’ve really enjoyed the progress that I’ve made, and I can’t wait for the next assignment!
